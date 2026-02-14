@@ -30,7 +30,7 @@ This toolkit automates the deployment and management of two CockroachDB clusters
 
 ### Architecture Diagram
 
-![CRDB Replication & CDC Architecture](Gemini_Generated_Image_k5wmg7k5wmg7k5wm.png)
+![CRDB Replication & CDC Architecture](Gemini_Generated_Image_n7s12gn7s12gn7s1.png)
 
 This toolkit implements the architecture shown above:
 - **PCR Replication Stream** - Physical replication between Cluster A and Cluster B
